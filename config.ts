@@ -6,9 +6,9 @@ export = config;
 const now = new Date()
 config.config = {
     "debug": false,
-    "projectName": "Sensor",
-    "projectNameLong": "WolfBot",
-    "protocol": "https://",
+    "projectName": "IfeTradeBot2",
+    "projectNameLong": "Ife Trade Bot 2",
+    "protocol": "http://",
     "port": 8331,
     "tlsPort": 8332,
     "portDef": 8331,
